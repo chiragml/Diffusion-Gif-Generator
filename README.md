@@ -16,9 +16,9 @@
 
 <p align="center">
   <strong>Initial Model (40 min)</strong>  
-  <img src="out%20(2).gif" alt="Initial Model Output - 40 min" width="30%" />
+  <img src="out%20(2).gif" alt="Initial Model Output - 40 min" width="20%" />
   <strong>Optimized Model (9 min)</strong>
-  <img src="out3.gif" alt="Optimized Model Output - 9 min" width="30%" />
+  <img src="out3.gif" alt="Optimized Model Output - 9 min" width="20%" />
 </p>
 
 ## Overview
